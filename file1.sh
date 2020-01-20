@@ -1,1 +1,1 @@
-yum update all -y
+sudo yum update  -y
